@@ -1,0 +1,9 @@
+# Archivos de construcción y temporales
+/target/
+*.log
+*.class
+*.iml
+.idea/
+*.ipr
+*.iws
+.DS_Store
