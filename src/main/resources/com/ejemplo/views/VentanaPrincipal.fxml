@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.ejemplo.controllers.VentanaPrincipalController">
+    <children>
+        <Label text="¡Bienvenido!" layoutX="100" layoutY="80"/>
+        <Button text="Haz clic" layoutX="100" layoutY="120" onAction="#handleBoton"/>
+    </children>
+</AnchorPane>
